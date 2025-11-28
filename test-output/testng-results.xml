@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="23" passed="22" failed="1" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Navigating to QAFeast demo website]]>
+    </line>
+    <line>
+      <![CDATA[Test Failed: tc01_verifyPageTitle]]>
+    </line>
+    <line>
+      <![CDATA[<br><a href='D:\Lakshmi\QAFeast\Screenshot\tc01_verifyPageTitle.png' target='_blank'>Click here to open screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src='D:\Lakshmi\QAFeast\Screenshot\tc01_verifyPageTitle.png' height='400' width='600'/><br>]]>
+    </line>
+    <line>
+      <![CDATA[Navigating to QAFeast demo website]]>
+    </line>
+    <line>
+      <![CDATA[Navigating to QAFeast demo website]]>
+    </line>
+    <line>
+      <![CDATA[Navigating to QAFeast demo website]]>
+    </line>
+    <line>
+      <![CDATA[Navigating to QAFeast demo website]]>
+    </line>
+    <line>
+      <![CDATA[Navigating to QAFeast demo website]]>
+    </line>
+    <line>
+      <![CDATA[Navigating to QAFeast demo website]]>
+    </line>
+    <line>
+      <![CDATA[Navigating to QAFeast demo website]]>
+    </line>
+    <line>
+      <![CDATA[Navigating to QAFeast demo website]]>
+    </line>
+    <line>
+      <![CDATA[Navigating to QAFeast demo website]]>
+    </line>
+    <line>
+      <![CDATA[Navigating to QAFeast demo website]]>
+    </line>
+    <line>
+      <![CDATA[Navigating to QAFeast demo website]]>
+    </line>
+    <line>
+      <![CDATA[Navigating to QAFeast demo website]]>
+    </line>
+    <line>
+      <![CDATA[Navigating to QAFeast demo website]]>
+    </line>
+    <line>
+      <![CDATA[Navigating to QAFeast demo website]]>
+    </line>
+    <line>
+      <![CDATA[Navigating to QAFeast demo website]]>
+    </line>
+    <line>
+      <![CDATA[Navigating to QAFeast demo website]]>
+    </line>
+    <line>
+      <![CDATA[Navigating to QAFeast demo website]]>
+    </line>
+    <line>
+      <![CDATA[Navigating to QAFeast demo website]]>
+    </line>
+    <line>
+      <![CDATA[Navigating to QAFeast demo website]]>
+    </line>
+    <line>
+      <![CDATA[Navigating to QAFeast demo website]]>
+    </line>
+    <line>
+      <![CDATA[Navigating to QAFeast demo website]]>
+    </line>
+    <line>
+      <![CDATA[Navigating to QAFeast demo website]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2025-11-07T17:20:34 IST" name="Grouping Test" finished-at="2025-11-07T17:21:51 IST" duration-ms="77038">
+    <groups>
+      <group name="functional">
+        <method signature="ButtonTest.tc02_verifySubmitBtn()[pri:0, instance:com.tests.ButtonTest@1ea9f6af]" name="tc02_verifySubmitBtn" class="com.tests.ButtonTest"/>
+        <method signature="CheckBoxTest.tc03_VerifySummaryReportCheckBox()[pri:0, instance:com.tests.CheckBoxTest@595b007d]" name="tc03_VerifySummaryReportCheckBox" class="com.tests.CheckBoxTest"/>
+        <method signature="CheckBoxTest.tc04_VerifyDetailedReportCheckbox()[pri:0, instance:com.tests.CheckBoxTest@595b007d]" name="tc04_VerifyDetailedReportCheckbox" class="com.tests.CheckBoxTest"/>
+        <method signature="CheckBoxTest.tc05_VerifyWeeklyReportCheckbox()[pri:0, instance:com.tests.CheckBoxTest@595b007d]" name="tc05_VerifyWeeklyReportCheckbox" class="com.tests.CheckBoxTest"/>
+        <method signature="CheckBoxTest.tc06_VerifySelectionOfTwoReports_Summary_Weekly()[pri:0, instance:com.tests.CheckBoxTest@595b007d]" name="tc06_VerifySelectionOfTwoReports_Summary_Weekly" class="com.tests.CheckBoxTest"/>
+        <method signature="CheckBoxTest.tc07_VerifySelectionOfTwoReports_Summary_Detailed()[pri:0, instance:com.tests.CheckBoxTest@595b007d]" name="tc07_VerifySelectionOfTwoReports_Summary_Detailed" class="com.tests.CheckBoxTest"/>
+        <method signature="CheckBoxTest.tc08_VerifySelectionOfTwoReports_Weekly_Detailed()[pri:0, instance:com.tests.CheckBoxTest@595b007d]" name="tc08_VerifySelectionOfTwoReports_Weekly_Detailed" class="com.tests.CheckBoxTest"/>
+        <method signature="CheckBoxTest.tc09_VerifySelectionOfAllReports()[pri:0, instance:com.tests.CheckBoxTest@595b007d]" name="tc09_VerifySelectionOfAllReports" class="com.tests.CheckBoxTest"/>
+        <method signature="CheckBoxTest.tc10_VerifyDeselectionOfReports()[pri:0, instance:com.tests.CheckBoxTest@595b007d]" name="tc10_VerifyDeselectionOfReports" class="com.tests.CheckBoxTest"/>
+        <method signature="HyperlinkTest.tc03_VerifyBrowserLink()[pri:0, instance:com.tests.HyperlinkTest@49ec71f8]" name="tc03_VerifyBrowserLink" class="com.tests.HyperlinkTest"/>
+        <method signature="HyperlinkTest.tc04_VerifyDesktopLink()[pri:0, instance:com.tests.HyperlinkTest@49ec71f8]" name="tc04_VerifyDesktopLink" class="com.tests.HyperlinkTest"/>
+        <method signature="RadioButtonTest.tc02_selectMaleButton()[pri:0, instance:com.tests.RadioButtonTest@2b662a77]" name="tc02_selectMaleButton" class="com.tests.RadioButtonTest"/>
+        <method signature="RadioButtonTest.tc03_selectFemaleButton()[pri:0, instance:com.tests.RadioButtonTest@2b662a77]" name="tc03_selectFemaleButton" class="com.tests.RadioButtonTest"/>
+        <method signature="TextBoxTest.tc02_verifyNonEditableBox()[pri:0, instance:com.tests.TextBoxTest@59662a0b]" name="tc02_verifyNonEditableBox" class="com.tests.TextBoxTest"/>
+        <method signature="TextBoxTest.tc03_verifyEditableTextbox()[pri:0, instance:com.tests.TextBoxTest@59662a0b]" name="tc03_verifyEditableTextbox" class="com.tests.TextBoxTest"/>
+        <method signature="TextBoxTest.tc04_verifyUsernameBox()[pri:0, instance:com.tests.TextBoxTest@59662a0b]" name="tc04_verifyUsernameBox" class="com.tests.TextBoxTest"/>
+      </group> <!-- functional -->
+      <group name="text">
+        <method signature="HyperlinkTest.tc02_VerifyLinkTexts()[pri:0, instance:com.tests.HyperlinkTest@49ec71f8]" name="tc02_VerifyLinkTexts" class="com.tests.HyperlinkTest"/>
+        <method signature="TextBoxTest.tc01_verifyPageTitle()[pri:0, instance:com.tests.TextBoxTest@59662a0b]" name="tc01_verifyPageTitle" class="com.tests.TextBoxTest"/>
+      </group> <!-- text -->
+      <group name="title">
+        <method signature="ButtonTest.tc01_verifyPageTitle()[pri:0, instance:com.tests.ButtonTest@1ea9f6af]" name="tc01_verifyPageTitle" class="com.tests.ButtonTest"/>
+        <method signature="CheckBoxTest.tc01_VerifyPageTitle()[pri:0, instance:com.tests.CheckBoxTest@595b007d]" name="tc01_VerifyPageTitle" class="com.tests.CheckBoxTest"/>
+        <method signature="HyperlinkTest.tc01_VerifyPageTitle()[pri:0, instance:com.tests.HyperlinkTest@49ec71f8]" name="tc01_VerifyPageTitle" class="com.tests.HyperlinkTest"/>
+        <method signature="RadioButtonTest.tc01_verifyPageTitle()[pri:0, instance:com.tests.RadioButtonTest@2b662a77]" name="tc01_verifyPageTitle" class="com.tests.RadioButtonTest"/>
+        <method signature="TextBoxTest.tc01_verifyPageTitle()[pri:0, instance:com.tests.TextBoxTest@59662a0b]" name="tc01_verifyPageTitle" class="com.tests.TextBoxTest"/>
+      </group> <!-- title -->
+      <group name="status">
+        <method signature="CheckBoxTest.tc02_VerifyCheckboxOnPageLoad()[pri:0, instance:com.tests.CheckBoxTest@595b007d]" name="tc02_VerifyCheckboxOnPageLoad" class="com.tests.CheckBoxTest"/>
+        <method signature="CheckBoxTest.tc08_VerifySelectionOfTwoReports_Weekly_Detailed()[pri:0, instance:com.tests.CheckBoxTest@595b007d]" name="tc08_VerifySelectionOfTwoReports_Weekly_Detailed" class="com.tests.CheckBoxTest"/>
+        <method signature="CheckBoxTest.tc09_VerifySelectionOfAllReports()[pri:0, instance:com.tests.CheckBoxTest@595b007d]" name="tc09_VerifySelectionOfAllReports" class="com.tests.CheckBoxTest"/>
+        <method signature="CheckBoxTest.tc10_VerifyDeselectionOfReports()[pri:0, instance:com.tests.CheckBoxTest@595b007d]" name="tc10_VerifyDeselectionOfReports" class="com.tests.CheckBoxTest"/>
+        <method signature="RadioButtonTest.tc02_selectMaleButton()[pri:0, instance:com.tests.RadioButtonTest@2b662a77]" name="tc02_selectMaleButton" class="com.tests.RadioButtonTest"/>
+        <method signature="RadioButtonTest.tc03_selectFemaleButton()[pri:0, instance:com.tests.RadioButtonTest@2b662a77]" name="tc03_selectFemaleButton" class="com.tests.RadioButtonTest"/>
+      </group> <!-- status -->
+    </groups>
+    <test started-at="2025-11-07T17:20:34 IST" name="Test" finished-at="2025-11-07T17:21:51 IST" duration-ms="77038">
+      <class name="com.tests.CheckBoxTest">
+        <test-method is-config="true" signature="navigateToCheckBox()[pri:0, instance:com.tests.CheckBoxTest@595b007d]" started-at="2025-11-07T17:20:43 IST" name="navigateToCheckBox" finished-at="2025-11-07T17:20:46 IST" duration-ms="2823" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Navigating to QAFeast demo website]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- navigateToCheckBox -->
+        <test-method signature="tc01_VerifyPageTitle()[pri:0, instance:com.tests.CheckBoxTest@595b007d]" started-at="2025-11-07T17:20:46 IST" name="tc01_VerifyPageTitle" finished-at="2025-11-07T17:20:46 IST" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01_VerifyPageTitle -->
+        <test-method is-config="true" signature="closeWindow()[pri:0, instance:com.tests.CheckBoxTest@595b007d]" started-at="2025-11-07T17:20:46 IST" name="closeWindow" finished-at="2025-11-07T17:20:46 IST" duration-ms="263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWindow -->
+        <test-method is-config="true" signature="navigateToCheckBox()[pri:0, instance:com.tests.CheckBoxTest@595b007d]" started-at="2025-11-07T17:20:46 IST" name="navigateToCheckBox" finished-at="2025-11-07T17:20:49 IST" duration-ms="3098" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Navigating to QAFeast demo website]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- navigateToCheckBox -->
+        <test-method signature="tc02_VerifyCheckboxOnPageLoad()[pri:0, instance:com.tests.CheckBoxTest@595b007d]" started-at="2025-11-07T17:20:49 IST" name="tc02_VerifyCheckboxOnPageLoad" finished-at="2025-11-07T17:20:49 IST" duration-ms="97" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc02_VerifyCheckboxOnPageLoad -->
+        <test-method is-config="true" signature="closeWindow()[pri:0, instance:com.tests.CheckBoxTest@595b007d]" started-at="2025-11-07T17:20:49 IST" name="closeWindow" finished-at="2025-11-07T17:20:49 IST" duration-ms="239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWindow -->
+        <test-method is-config="true" signature="navigateToCheckBox()[pri:0, instance:com.tests.CheckBoxTest@595b007d]" started-at="2025-11-07T17:20:49 IST" name="navigateToCheckBox" finished-at="2025-11-07T17:20:52 IST" duration-ms="2317" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Navigating to QAFeast demo website]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- navigateToCheckBox -->
+        <test-method signature="tc03_VerifySummaryReportCheckBox()[pri:0, instance:com.tests.CheckBoxTest@595b007d]" started-at="2025-11-07T17:20:52 IST" name="tc03_VerifySummaryReportCheckBox" finished-at="2025-11-07T17:20:52 IST" duration-ms="229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc03_VerifySummaryReportCheckBox -->
+        <test-method is-config="true" signature="closeWindow()[pri:0, instance:com.tests.CheckBoxTest@595b007d]" started-at="2025-11-07T17:20:52 IST" name="closeWindow" finished-at="2025-11-07T17:20:52 IST" duration-ms="283" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWindow -->
+        <test-method is-config="true" signature="navigateToCheckBox()[pri:0, instance:com.tests.CheckBoxTest@595b007d]" started-at="2025-11-07T17:20:52 IST" name="navigateToCheckBox" finished-at="2025-11-07T17:20:55 IST" duration-ms="2903" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Navigating to QAFeast demo website]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- navigateToCheckBox -->
+        <test-method signature="tc04_VerifyDetailedReportCheckbox()[pri:0, instance:com.tests.CheckBoxTest@595b007d]" started-at="2025-11-07T17:20:55 IST" name="tc04_VerifyDetailedReportCheckbox" finished-at="2025-11-07T17:20:55 IST" duration-ms="224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc04_VerifyDetailedReportCheckbox -->
+        <test-method is-config="true" signature="closeWindow()[pri:0, instance:com.tests.CheckBoxTest@595b007d]" started-at="2025-11-07T17:20:55 IST" name="closeWindow" finished-at="2025-11-07T17:20:55 IST" duration-ms="238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWindow -->
+        <test-method is-config="true" signature="navigateToCheckBox()[pri:0, instance:com.tests.CheckBoxTest@595b007d]" started-at="2025-11-07T17:20:55 IST" name="navigateToCheckBox" finished-at="2025-11-07T17:20:58 IST" duration-ms="2478" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Navigating to QAFeast demo website]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- navigateToCheckBox -->
+        <test-method signature="tc05_VerifyWeeklyReportCheckbox()[pri:0, instance:com.tests.CheckBoxTest@595b007d]" started-at="2025-11-07T17:20:58 IST" name="tc05_VerifyWeeklyReportCheckbox" finished-at="2025-11-07T17:20:58 IST" duration-ms="179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc05_VerifyWeeklyReportCheckbox -->
+        <test-method is-config="true" signature="closeWindow()[pri:0, instance:com.tests.CheckBoxTest@595b007d]" started-at="2025-11-07T17:20:58 IST" name="closeWindow" finished-at="2025-11-07T17:20:58 IST" duration-ms="207" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWindow -->
+        <test-method is-config="true" signature="navigateToCheckBox()[pri:0, instance:com.tests.CheckBoxTest@595b007d]" started-at="2025-11-07T17:20:58 IST" name="navigateToCheckBox" finished-at="2025-11-07T17:21:01 IST" duration-ms="2536" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Navigating to QAFeast demo website]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- navigateToCheckBox -->
+        <test-method signature="tc06_VerifySelectionOfTwoReports_Summary_Weekly()[pri:0, instance:com.tests.CheckBoxTest@595b007d]" started-at="2025-11-07T17:21:01 IST" name="tc06_VerifySelectionOfTwoReports_Summary_Weekly" finished-at="2025-11-07T17:21:01 IST" duration-ms="262" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc06_VerifySelectionOfTwoReports_Summary_Weekly -->
+        <test-method is-config="true" signature="closeWindow()[pri:0, instance:com.tests.CheckBoxTest@595b007d]" started-at="2025-11-07T17:21:01 IST" name="closeWindow" finished-at="2025-11-07T17:21:01 IST" duration-ms="208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWindow -->
+        <test-method is-config="true" signature="navigateToCheckBox()[pri:0, instance:com.tests.CheckBoxTest@595b007d]" started-at="2025-11-07T17:21:01 IST" name="navigateToCheckBox" finished-at="2025-11-07T17:21:04 IST" duration-ms="2931" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Navigating to QAFeast demo website]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- navigateToCheckBox -->
+        <test-method signature="tc07_VerifySelectionOfTwoReports_Summary_Detailed()[pri:0, instance:com.tests.CheckBoxTest@595b007d]" started-at="2025-11-07T17:21:04 IST" name="tc07_VerifySelectionOfTwoReports_Summary_Detailed" finished-at="2025-11-07T17:21:05 IST" duration-ms="254" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc07_VerifySelectionOfTwoReports_Summary_Detailed -->
+        <test-method is-config="true" signature="closeWindow()[pri:0, instance:com.tests.CheckBoxTest@595b007d]" started-at="2025-11-07T17:21:05 IST" name="closeWindow" finished-at="2025-11-07T17:21:05 IST" duration-ms="228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWindow -->
+        <test-method is-config="true" signature="navigateToCheckBox()[pri:0, instance:com.tests.CheckBoxTest@595b007d]" started-at="2025-11-07T17:21:05 IST" name="navigateToCheckBox" finished-at="2025-11-07T17:21:08 IST" duration-ms="2837" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Navigating to QAFeast demo website]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- navigateToCheckBox -->
+        <test-method signature="tc08_VerifySelectionOfTwoReports_Weekly_Detailed()[pri:0, instance:com.tests.CheckBoxTest@595b007d]" started-at="2025-11-07T17:21:08 IST" name="tc08_VerifySelectionOfTwoReports_Weekly_Detailed" finished-at="2025-11-07T17:21:08 IST" duration-ms="262" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc08_VerifySelectionOfTwoReports_Weekly_Detailed -->
+        <test-method is-config="true" signature="closeWindow()[pri:0, instance:com.tests.CheckBoxTest@595b007d]" started-at="2025-11-07T17:21:08 IST" name="closeWindow" finished-at="2025-11-07T17:21:08 IST" duration-ms="247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWindow -->
+        <test-method is-config="true" signature="navigateToCheckBox()[pri:0, instance:com.tests.CheckBoxTest@595b007d]" started-at="2025-11-07T17:21:08 IST" name="navigateToCheckBox" finished-at="2025-11-07T17:21:10 IST" duration-ms="2338" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Navigating to QAFeast demo website]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- navigateToCheckBox -->
+        <test-method signature="tc09_VerifySelectionOfAllReports()[pri:0, instance:com.tests.CheckBoxTest@595b007d]" started-at="2025-11-07T17:21:10 IST" name="tc09_VerifySelectionOfAllReports" finished-at="2025-11-07T17:21:11 IST" duration-ms="327" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc09_VerifySelectionOfAllReports -->
+        <test-method is-config="true" signature="closeWindow()[pri:0, instance:com.tests.CheckBoxTest@595b007d]" started-at="2025-11-07T17:21:11 IST" name="closeWindow" finished-at="2025-11-07T17:21:11 IST" duration-ms="221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWindow -->
+        <test-method is-config="true" signature="navigateToCheckBox()[pri:0, instance:com.tests.CheckBoxTest@595b007d]" started-at="2025-11-07T17:21:11 IST" name="navigateToCheckBox" finished-at="2025-11-07T17:21:14 IST" duration-ms="2554" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Navigating to QAFeast demo website]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- navigateToCheckBox -->
+        <test-method signature="tc10_VerifyDeselectionOfReports()[pri:0, instance:com.tests.CheckBoxTest@595b007d]" started-at="2025-11-07T17:21:14 IST" name="tc10_VerifyDeselectionOfReports" finished-at="2025-11-07T17:21:14 IST" duration-ms="295" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc10_VerifyDeselectionOfReports -->
+        <test-method is-config="true" signature="closeWindow()[pri:0, instance:com.tests.CheckBoxTest@595b007d]" started-at="2025-11-07T17:21:14 IST" name="closeWindow" finished-at="2025-11-07T17:21:14 IST" duration-ms="251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWindow -->
+      </class> <!-- com.tests.CheckBoxTest -->
+      <class name="com.tests.ButtonTest">
+        <test-method is-config="true" signature="launchApp()[pri:0, instance:com.tests.ButtonTest@1ea9f6af]" started-at="2025-11-07T17:20:34 IST" name="launchApp" finished-at="2025-11-07T17:20:38 IST" duration-ms="4294" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Navigating to QAFeast demo website]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="tc01_verifyPageTitle()[pri:0, instance:com.tests.ButtonTest@1ea9f6af]" started-at="2025-11-07T17:20:38 IST" name="tc01_verifyPageTitle" finished-at="2025-11-07T17:20:39 IST" duration-ms="95" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [Button Page] but found [Button]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [Button Page] but found [Button]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1578)
+at org.testng.Assert.assertEqualsImpl(Assert.java:150)
+at org.testng.Assert.assertEquals(Assert.java:132)
+at org.testng.Assert.assertEquals(Assert.java:656)
+at org.testng.Assert.assertEquals(Assert.java:666)
+at com.tests.ButtonTest.tc01_verifyPageTitle(ButtonTest.java:68)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:739)
+at org.testng.TestRunner.run(TestRunner.java:614)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65)
+at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[Test Failed: tc01_verifyPageTitle]]>
+            </line>
+            <line>
+              <![CDATA[<br><a href='D:\Lakshmi\QAFeast\Screenshot\tc01_verifyPageTitle.png' target='_blank'>Click here to open screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br><img src='D:\Lakshmi\QAFeast\Screenshot\tc01_verifyPageTitle.png' height='400' width='600'/><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc01_verifyPageTitle -->
+        <test-method is-config="true" signature="afterTest(org.testng.ITestResult)[pri:0, instance:com.tests.ButtonTest@1ea9f6af]" started-at="2025-11-07T17:20:39 IST" name="afterTest" finished-at="2025-11-07T17:20:39 IST" duration-ms="289" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=tc01_verifyPageTitle status=FAILURE method=ButtonTest.tc01_verifyPageTitle()[pri:0, instance:com.tests.ButtonTest@1ea9f6af] output=Test Failed: tc01_verifyPageTitle]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="launchApp()[pri:0, instance:com.tests.ButtonTest@1ea9f6af]" started-at="2025-11-07T17:20:39 IST" name="launchApp" finished-at="2025-11-07T17:20:42 IST" duration-ms="3541" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Navigating to QAFeast demo website]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="tc02_verifySubmitBtn()[pri:0, instance:com.tests.ButtonTest@1ea9f6af]" started-at="2025-11-07T17:20:42 IST" name="tc02_verifySubmitBtn" finished-at="2025-11-07T17:20:43 IST" duration-ms="131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc02_verifySubmitBtn -->
+        <test-method is-config="true" signature="afterTest(org.testng.ITestResult)[pri:0, instance:com.tests.ButtonTest@1ea9f6af]" started-at="2025-11-07T17:20:43 IST" name="afterTest" finished-at="2025-11-07T17:20:43 IST" duration-ms="148" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=tc02_verifySubmitBtn status=SUCCESS method=ButtonTest.tc02_verifySubmitBtn()[pri:0, instance:com.tests.ButtonTest@1ea9f6af] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.tests.ButtonTest -->
+      <class name="com.tests.HyperlinkTest">
+        <test-method is-config="true" signature="navigateToHyperLink()[pri:0, instance:com.tests.HyperlinkTest@49ec71f8]" started-at="2025-11-07T17:21:14 IST" name="navigateToHyperLink" finished-at="2025-11-07T17:21:16 IST" duration-ms="2284" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Navigating to QAFeast demo website]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- navigateToHyperLink -->
+        <test-method signature="tc01_VerifyPageTitle()[pri:0, instance:com.tests.HyperlinkTest@49ec71f8]" started-at="2025-11-07T17:21:16 IST" name="tc01_VerifyPageTitle" finished-at="2025-11-07T17:21:16 IST" duration-ms="29" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01_VerifyPageTitle -->
+        <test-method is-config="true" signature="closeWindow()[pri:0, instance:com.tests.HyperlinkTest@49ec71f8]" started-at="2025-11-07T17:21:16 IST" name="closeWindow" finished-at="2025-11-07T17:21:17 IST" duration-ms="223" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWindow -->
+        <test-method is-config="true" signature="navigateToHyperLink()[pri:0, instance:com.tests.HyperlinkTest@49ec71f8]" started-at="2025-11-07T17:21:17 IST" name="navigateToHyperLink" finished-at="2025-11-07T17:21:19 IST" duration-ms="2514" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Navigating to QAFeast demo website]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- navigateToHyperLink -->
+        <test-method signature="tc02_VerifyLinkTexts()[pri:0, instance:com.tests.HyperlinkTest@49ec71f8]" started-at="2025-11-07T17:21:19 IST" name="tc02_VerifyLinkTexts" finished-at="2025-11-07T17:21:19 IST" duration-ms="44" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc02_VerifyLinkTexts -->
+        <test-method is-config="true" signature="closeWindow()[pri:0, instance:com.tests.HyperlinkTest@49ec71f8]" started-at="2025-11-07T17:21:19 IST" name="closeWindow" finished-at="2025-11-07T17:21:19 IST" duration-ms="243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWindow -->
+        <test-method is-config="true" signature="navigateToHyperLink()[pri:0, instance:com.tests.HyperlinkTest@49ec71f8]" started-at="2025-11-07T17:21:19 IST" name="navigateToHyperLink" finished-at="2025-11-07T17:21:22 IST" duration-ms="2365" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Navigating to QAFeast demo website]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- navigateToHyperLink -->
+        <test-method signature="tc03_VerifyBrowserLink()[pri:0, instance:com.tests.HyperlinkTest@49ec71f8]" started-at="2025-11-07T17:21:22 IST" name="tc03_VerifyBrowserLink" finished-at="2025-11-07T17:21:23 IST" duration-ms="872" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc03_VerifyBrowserLink -->
+        <test-method is-config="true" signature="closeWindow()[pri:0, instance:com.tests.HyperlinkTest@49ec71f8]" started-at="2025-11-07T17:21:23 IST" name="closeWindow" finished-at="2025-11-07T17:21:23 IST" duration-ms="211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWindow -->
+        <test-method is-config="true" signature="navigateToHyperLink()[pri:0, instance:com.tests.HyperlinkTest@49ec71f8]" started-at="2025-11-07T17:21:23 IST" name="navigateToHyperLink" finished-at="2025-11-07T17:21:25 IST" duration-ms="2575" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Navigating to QAFeast demo website]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- navigateToHyperLink -->
+        <test-method signature="tc04_VerifyDesktopLink()[pri:0, instance:com.tests.HyperlinkTest@49ec71f8]" started-at="2025-11-07T17:21:25 IST" name="tc04_VerifyDesktopLink" finished-at="2025-11-07T17:21:30 IST" duration-ms="4214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc04_VerifyDesktopLink -->
+        <test-method is-config="true" signature="closeWindow()[pri:0, instance:com.tests.HyperlinkTest@49ec71f8]" started-at="2025-11-07T17:21:30 IST" name="closeWindow" finished-at="2025-11-07T17:21:30 IST" duration-ms="243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWindow -->
+      </class> <!-- com.tests.HyperlinkTest -->
+      <class name="com.tests.TextBoxTest">
+        <test-method is-config="true" signature="navigateToTextBox()[pri:0, instance:com.tests.TextBoxTest@59662a0b]" started-at="2025-11-07T17:21:40 IST" name="navigateToTextBox" finished-at="2025-11-07T17:21:43 IST" duration-ms="2441" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Navigating to QAFeast demo website]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- navigateToTextBox -->
+        <test-method signature="tc01_verifyPageTitle()[pri:0, instance:com.tests.TextBoxTest@59662a0b]" started-at="2025-11-07T17:21:43 IST" name="tc01_verifyPageTitle" finished-at="2025-11-07T17:21:43 IST" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01_verifyPageTitle -->
+        <test-method is-config="true" signature="closeWindow()[pri:0, instance:com.tests.TextBoxTest@59662a0b]" started-at="2025-11-07T17:21:43 IST" name="closeWindow" finished-at="2025-11-07T17:21:43 IST" duration-ms="224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWindow -->
+        <test-method is-config="true" signature="navigateToTextBox()[pri:0, instance:com.tests.TextBoxTest@59662a0b]" started-at="2025-11-07T17:21:43 IST" name="navigateToTextBox" finished-at="2025-11-07T17:21:45 IST" duration-ms="2584" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Navigating to QAFeast demo website]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- navigateToTextBox -->
+        <test-method signature="tc02_verifyNonEditableBox()[pri:0, instance:com.tests.TextBoxTest@59662a0b]" started-at="2025-11-07T17:21:45 IST" name="tc02_verifyNonEditableBox" finished-at="2025-11-07T17:21:45 IST" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc02_verifyNonEditableBox -->
+        <test-method is-config="true" signature="closeWindow()[pri:0, instance:com.tests.TextBoxTest@59662a0b]" started-at="2025-11-07T17:21:45 IST" name="closeWindow" finished-at="2025-11-07T17:21:46 IST" duration-ms="211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWindow -->
+        <test-method is-config="true" signature="navigateToTextBox()[pri:0, instance:com.tests.TextBoxTest@59662a0b]" started-at="2025-11-07T17:21:46 IST" name="navigateToTextBox" finished-at="2025-11-07T17:21:48 IST" duration-ms="2296" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Navigating to QAFeast demo website]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- navigateToTextBox -->
+        <test-method signature="tc03_verifyEditableTextbox()[pri:0, instance:com.tests.TextBoxTest@59662a0b]" started-at="2025-11-07T17:21:48 IST" name="tc03_verifyEditableTextbox" finished-at="2025-11-07T17:21:48 IST" duration-ms="129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc03_verifyEditableTextbox -->
+        <test-method is-config="true" signature="closeWindow()[pri:0, instance:com.tests.TextBoxTest@59662a0b]" started-at="2025-11-07T17:21:48 IST" name="closeWindow" finished-at="2025-11-07T17:21:48 IST" duration-ms="227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWindow -->
+        <test-method is-config="true" signature="navigateToTextBox()[pri:0, instance:com.tests.TextBoxTest@59662a0b]" started-at="2025-11-07T17:21:48 IST" name="navigateToTextBox" finished-at="2025-11-07T17:21:51 IST" duration-ms="2391" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Navigating to QAFeast demo website]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- navigateToTextBox -->
+        <test-method signature="tc04_verifyUsernameBox()[pri:0, instance:com.tests.TextBoxTest@59662a0b]" started-at="2025-11-07T17:21:51 IST" name="tc04_verifyUsernameBox" finished-at="2025-11-07T17:21:51 IST" duration-ms="193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc04_verifyUsernameBox -->
+        <test-method is-config="true" signature="closeWindow()[pri:0, instance:com.tests.TextBoxTest@59662a0b]" started-at="2025-11-07T17:21:51 IST" name="closeWindow" finished-at="2025-11-07T17:21:51 IST" duration-ms="223" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWindow -->
+      </class> <!-- com.tests.TextBoxTest -->
+      <class name="com.tests.RadioButtonTest">
+        <test-method is-config="true" signature="navigateToRadioBtnMenu()[pri:0, instance:com.tests.RadioButtonTest@2b662a77]" started-at="2025-11-07T17:21:30 IST" name="navigateToRadioBtnMenu" finished-at="2025-11-07T17:21:33 IST" duration-ms="2960" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Navigating to QAFeast demo website]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- navigateToRadioBtnMenu -->
+        <test-method signature="tc01_verifyPageTitle()[pri:0, instance:com.tests.RadioButtonTest@2b662a77]" started-at="2025-11-07T17:21:33 IST" name="tc01_verifyPageTitle" finished-at="2025-11-07T17:21:33 IST" duration-ms="126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01_verifyPageTitle -->
+        <test-method is-config="true" signature="closeWindow()[pri:0, instance:com.tests.RadioButtonTest@2b662a77]" started-at="2025-11-07T17:21:33 IST" name="closeWindow" finished-at="2025-11-07T17:21:33 IST" duration-ms="272" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWindow -->
+        <test-method is-config="true" signature="navigateToRadioBtnMenu()[pri:0, instance:com.tests.RadioButtonTest@2b662a77]" started-at="2025-11-07T17:21:33 IST" name="navigateToRadioBtnMenu" finished-at="2025-11-07T17:21:36 IST" duration-ms="2751" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Navigating to QAFeast demo website]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- navigateToRadioBtnMenu -->
+        <test-method signature="tc02_selectMaleButton()[pri:0, instance:com.tests.RadioButtonTest@2b662a77]" started-at="2025-11-07T17:21:36 IST" name="tc02_selectMaleButton" finished-at="2025-11-07T17:21:36 IST" duration-ms="177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc02_selectMaleButton -->
+        <test-method is-config="true" signature="closeWindow()[pri:0, instance:com.tests.RadioButtonTest@2b662a77]" started-at="2025-11-07T17:21:36 IST" name="closeWindow" finished-at="2025-11-07T17:21:36 IST" duration-ms="214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWindow -->
+        <test-method is-config="true" signature="navigateToRadioBtnMenu()[pri:0, instance:com.tests.RadioButtonTest@2b662a77]" started-at="2025-11-07T17:21:36 IST" name="navigateToRadioBtnMenu" finished-at="2025-11-07T17:21:40 IST" duration-ms="3396" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Navigating to QAFeast demo website]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- navigateToRadioBtnMenu -->
+        <test-method signature="tc03_selectFemaleButton()[pri:0, instance:com.tests.RadioButtonTest@2b662a77]" started-at="2025-11-07T17:21:40 IST" name="tc03_selectFemaleButton" finished-at="2025-11-07T17:21:40 IST" duration-ms="176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc03_selectFemaleButton -->
+        <test-method is-config="true" signature="closeWindow()[pri:0, instance:com.tests.RadioButtonTest@2b662a77]" started-at="2025-11-07T17:21:40 IST" name="closeWindow" finished-at="2025-11-07T17:21:40 IST" duration-ms="204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWindow -->
+      </class> <!-- com.tests.RadioButtonTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Grouping Test -->
+</testng-results>
