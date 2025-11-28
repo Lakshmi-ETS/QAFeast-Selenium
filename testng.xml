@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="MyTestSuite">
+    <test name="MyTest">
+        <classes>
+            <class name="com.tests.CheckBoxTest"/>
+            <class name="com.tests.ButtonTest"/>
+            <class name="com.tests.ChatWindowTest"/>
+            <!-- Add more classes as needed -->
+        </classes>
+    </test>
+</suite>
